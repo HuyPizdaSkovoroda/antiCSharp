@@ -6,6 +6,8 @@
 - ...
 
 # НАШИ ПРОЕКТЫ
-vk.com/boteeazzy - игровой бот
-vk.com/huypizdaskovorodainc - наша компания
-vk.com/pumplinkstudios - продажа планет
+https://vk.com/boteeazzy - игровой бот
+
+https://vk.com/huypizdaskovorodainc - наша компания
+
+https://vk.com/pumplink_telecom - продажа планет
